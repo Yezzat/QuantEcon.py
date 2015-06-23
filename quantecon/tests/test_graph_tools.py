@@ -2,7 +2,7 @@
 Filename: test_graph_tools.py
 Author: Daisuke Oyama
 
-Tests for graph_tools.py
+Tests for graph_tools.py Main
 
 """
 import sys
